@@ -62,7 +62,9 @@ python recent_instance.py
 ## 🧑‍💻 Author
 
 **Nitanshu Tak**  
-Email: nitanshutak070105@gmail.com
+- GitHub: [Nitanshu715](https://github.com/Nitanshu715)
+- LinkedIn: [Nitanshu Tak](https://www.linkedin.com/in/nitanshu-tak-89a1ba289/)
+- Email: nitanshutak070105@gmail.com
 
 ---
 
